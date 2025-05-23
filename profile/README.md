@@ -10,5 +10,5 @@ The main tasks of the Center are
 Find out more at https://www.unibw.de/ciss-en/ccew
 
 <p align="left">
-  <img src="LF_ENG_KompZ_KFE_Vektor_RGB_XL_transparent.png" alt="Project Logo" width="400"/>
+  <img src="../LF_ENG_KompZ_KFE_Vektor_RGB_XL_transparent.png" alt="Project Logo" width="400"/>
 </p>
