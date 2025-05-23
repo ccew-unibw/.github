@@ -7,4 +7,8 @@ The main tasks of the Center are
 - conducting quantitative crisis and conflict research using innovative conceptual and methodological approaches (predictive analytics),
 - helping the above federal ministries to predict and assess crises and conflicts and thus to take appropriate preventive measures.
 
-Find our more at https://www.unibw.de/ciss-en/ccew
+Find out more at https://www.unibw.de/ciss-en/ccew
+
+<p align="left">
+  <img src="LF_ENG_KompZ_KFE_Vektor_RGB_XL_transparent.png" alt="Project Logo" width="400"/>
+</p>
